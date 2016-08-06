@@ -1,0 +1,39 @@
+;A
+;A                      CYBERCRIME INTERNATIONAL NETWORK
+;A
+;A                        Copyright 1995 - Mitchel Waas
+;A
+;A                          Last Update:  05 May 1995
+;A
+Zone,66,The_Genealogy_Network,Boise_ID,Kate_Smith,1-208-428-9266,2400,XX
+;
+;A ÄÄÄÄÄÄÄÄÄÄÄ> C Y B E R C R I M E    M A I N    R O U T I N G <ÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ------------------------------------------ = =------------------------------------------------------
+;
+;
+Region,100,    WORLD HEADQUARTERS     ,Fort_Lauderdale_FL,Midnight_Sorrow,1-305-792-9622,9600,CM,XX,V32B,V42B,VFC
+;
+Host,1000,______,______,______,1-305-792-9622,9600,CM,XX,V32B,V42B,VFC
+Host,1001,þÄÄÄCÄYÄBÄEÄRÄCÄRÄIÄMÄEÄÄÄÄþ,______,______,1-305-792-9622,9600,CM,XX,V32B,V42B,VFC
+Host,1002,þ__________________________þ,______,______,1-305-792-9622,9600,CM,XX,V32B,V42B,VFC
+;
+Host,1305,þ CyberCrime  Florida      þ,Fort_Lauderdale_FL,Midnight_Sorrow,1-305-792-9622,9600,CM,XX,V32B,V42B,VFC
+,100,  The Information Interchange,Fort_Lauderdale_FL,Midnight_Sorrow,1-305-584-7002,9600,CM,XX,HST,V32B,V42B
+;
+;
+;A ÄÄÄÄÄÄÄ> C Y B E R C R I M E    A L T E R N A T E    R O U T I N G <ÄÄÄÄÄÄÄÄÄÄ ------------------------------------------ = =------------------------------------------------------
+;
+;
+Region,200,    ALTERNATE ROUTING      ,Ewing_NJ,Psyber,1-609-637-9430,9600,CM,XA,V32B,V34,V42B,VFC
+;
+Host,2609,þ CyberCrime  New Jersey   þ,Ewing_NJ,Psyber,1-609-637-9430,9600,CM,XA,V32B,V34,V42B,VFC
+,100,The_Nexus_#1,Ewing_NJ,Psyber,1-609-637-9430,9600,CM,XA,V32B,V34,V42B,VFC
+,101,The_Nexus_#2,Ewing_NJ,Psyber,1-609-637-9432,9600,CM,XA,VFC,V32B,V42B
+,102,The_Nexus_#3,Ewing_NJ,Psyber,1-609-637-9434,9600,CM,XA,V32B,V42B
+;
+;
+Host,9998,þ__________________________þ,______,______,1-305-792-9622,9600,CM,XX,V32B,V42B,VFC
+Host,9999,þÄÄÄCÄYÄBÄEÄRÄCÄRÄIÄMÄEÄÄÄÄþ,______,______,1-305-792-9622,9600,CM,XX,V32B,V42B,VFC
+;
+;
+;
+;S <End_Of_NodeList>

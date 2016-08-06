@@ -1,0 +1,15 @@
+   CCI.BBS.ADS               CCi - BBS Advertisements
+   CCI.CALLING.CARDS         CCi - Calling Card Information
+   CCI.CRACKING.TIPS         CCi - Cracking Tips and Techniques
+   CCI.CRYPTOGRAPHY          CCi - Cryptography and Data Encryption
+   CCI.EXPLOSIVES            CCi - Explosives Research and Development
+   CCI.FOR.SALE              CCi - For Sale / Classified Advertisements
+   CCI.GENERAL               CCi - General Bullshit
+   CCI.HACKING               CCi - Hacking General Discussion
+ % CCI.HP.ADVANCED           CCi - H/P Restricted/Advanced Topics
+   CCI.HP.BBS.ADS            CCi - H/P Oriented BBS Advertisements
+   CCI.HP.MAGAZINES          CCi - H/P Oriented Publications
+ ! CCI.SYSOPS                CCi - Sysops Only
+   CCI.TECHNOLOGY            CCi - Technology
+   CCI.TELECOM               CCi - Telephone, Telecom and Phreaking Discussion
+   CCI.UNIX.HACKING          CCi - Unix Hacking
